@@ -67,6 +67,7 @@ The app will open in your browser at: `http://localhost:8501`
 
 ### Streamlit App Screenshot
 > *You can add your screenshot here after deploying.*
+> ![image](https://github.com/user-attachments/assets/7ee95e03-009e-4e6e-9d5a-a5f77bdb5b7e)
 
 ---
 
